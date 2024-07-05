@@ -77,4 +77,5 @@ npm install -g newman-reporter-htmlextra
 ## Newman Report Summary:
 ![Newman Report Summary] ![image](https://github.com/ashrafiucse/Student_REST_API_Testing_Postman_Newman/assets/86523487/3b45c6c5-8aeb-45a9-acd1-001942e8e6a7)
 
-![Newman Report Summary] ![image](https://github.com/ashrafiucse/Student_REST_API_Testing_Postman_Newman/assets/86523487/bd82025b-ff7d-4c44-b1bc-3699888af4f6)
+![Newman Report Summary] ![image](https://github.com/ashrafiucse/Student_REST_API_Testing_Postman_Newman/assets/86523487/f1009808-2a46-4a84-8270-88174f333a11)
+
