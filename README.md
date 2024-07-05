@@ -1,4 +1,4 @@
-# Student-RestAPI-Testing-Newman
+# Student_Rest_API_Testing_Postman_Newman
 ## How to run this project
 - Clone this project
 - Open with Postman / Command Shell
